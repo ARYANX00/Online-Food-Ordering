@@ -10,7 +10,7 @@ header("location: customerlogin.php");
 <html>
 
   <head>
-    <title> Cart | Le Cafe' </title>
+    <title> Cart | Hommie's Cafee</title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/cart.css">
